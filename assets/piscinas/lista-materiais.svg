@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#E1EEF4" stroke-width="1"/></pattern>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#EDE3D2"/><path d="M0 0V8" stroke="#D9CBB2" stroke-width="2"/></pattern>
+<linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9FE3EE"/><stop offset="1" stop-color="#5CC9DD"/></linearGradient>
+<marker id="arr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9z" fill="#1C4E80"/></marker>
+</defs>
+<rect width="600" height="420" fill="#F7FBFD"/><rect width="600" height="420" fill="url(#grid)"/>
+<rect x="10" y="10" width="580" height="400" fill="none" stroke="#1C4E80" stroke-width="1.5"/>
+<rect x="370" y="356" width="220" height="54" fill="#fff" stroke="#1C4E80" stroke-width="1.5"/>
+<line x1="370" y1="386" x2="590" y2="386" stroke="#1C4E80"/>
+<text x="382" y="377" font-size="14" font-weight="800" fill="#0B2545" letter-spacing="1">LISTA DE MATERIAIS</text>
+<text x="382" y="402" font-size="11" fill="#6B7F92">Representação ilustrativa</text>
+<rect x="40" y="40" width="520" height="36" rx="6" fill="#0B2545"/>
+<text x="56" y="63" font-size="11" text-anchor="start" fill="#fff" font-weight="700" letter-spacing=".6">ITEM</text>
+<text x="370" y="63" font-size="11" text-anchor="start" fill="#fff" font-weight="700" letter-spacing=".6">UNID.</text>
+<text x="470" y="63" font-size="11" text-anchor="start" fill="#fff" font-weight="700" letter-spacing=".6">QTD.</text>
+<rect x="40" y="76" width="520" height="30" fill="#fff"/>
+<rect x="52" y="85" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 91 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="96" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Cimento</text>
+<rect x="370" y="87" width="34" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="87" width="40" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="106" width="520" height="30" fill="#EEF7FA"/>
+<rect x="52" y="115" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 121 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="126" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Areia</text>
+<rect x="370" y="117" width="41" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="117" width="53" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="136" width="520" height="30" fill="#fff"/>
+<rect x="52" y="145" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 151 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="156" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Brita</text>
+<rect x="370" y="147" width="48" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="147" width="66" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="166" width="520" height="30" fill="#EEF7FA"/>
+<rect x="52" y="175" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 181 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="186" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Aço / vergalhões</text>
+<rect x="370" y="177" width="35" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="177" width="45" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="196" width="520" height="30" fill="#fff"/>
+<rect x="52" y="205" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 211 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="216" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Blocos</text>
+<rect x="370" y="207" width="42" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="207" width="58" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="226" width="520" height="30" fill="#EEF7FA"/>
+<rect x="52" y="235" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 241 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="246" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Impermeabilização</text>
+<rect x="370" y="237" width="49" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="237" width="71" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="256" width="520" height="30" fill="#fff"/>
+<rect x="52" y="265" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 271 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="276" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Revestimento</text>
+<rect x="370" y="267" width="36" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="267" width="50" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="286" width="520" height="30" fill="#EEF7FA"/>
+<rect x="52" y="295" width="12" height="12" rx="3" fill="none" stroke="#0EA5C6" stroke-width="2"/><path d="M54.5 301 l3 3 l5 -6" stroke="#0EA5C6" stroke-width="2" fill="none"/>
+<text x="74" y="306" font-size="12" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Tubos e conexões</text>
+<rect x="370" y="297" width="43" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="470" y="297" width="63" height="8" rx="4" fill="#C9D8E2"/>
+<rect x="40" y="40" width="520" height="276" rx="6" fill="none" stroke="#1C4E80" stroke-width="1.5"/>
+</svg>

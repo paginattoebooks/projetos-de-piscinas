@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#E1EEF4" stroke-width="1"/></pattern>
+<pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="8" fill="#EDE3D2"/><path d="M0 0V8" stroke="#D9CBB2" stroke-width="2"/></pattern>
+<linearGradient id="water" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9FE3EE"/><stop offset="1" stop-color="#5CC9DD"/></linearGradient>
+<marker id="arr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 1 L9 5 L0 9z" fill="#1C4E80"/></marker>
+</defs>
+<rect width="600" height="420" fill="#F7FBFD"/><rect width="600" height="420" fill="url(#grid)"/>
+<rect x="10" y="10" width="580" height="400" fill="none" stroke="#1C4E80" stroke-width="1.5"/>
+<rect x="370" y="356" width="220" height="54" fill="#fff" stroke="#1C4E80" stroke-width="1.5"/>
+<line x1="370" y1="386" x2="590" y2="386" stroke="#1C4E80"/>
+<text x="382" y="377" font-size="14" font-weight="800" fill="#0B2545" letter-spacing="1">HIDRÁULICA</text>
+<text x="382" y="402" font-size="11" fill="#6B7F92">Representação ilustrativa</text>
+<rect x="60" y="70" width="330" height="190" rx="14" fill="url(#water)" stroke="#0B2545" stroke-width="3"/>
+<rect x="440" y="90" width="120" height="150" rx="8" fill="#fff" stroke="#0B2545" stroke-width="2"/>
+<text x="500" y="112" font-size="10" text-anchor="middle" fill="#0B2545" font-weight="700" letter-spacing=".6">CASA DE</text>
+<text x="500" y="125" font-size="10" text-anchor="middle" fill="#0B2545" font-weight="700" letter-spacing=".6">MÁQUINAS</text>
+<circle cx="480" cy="170" r="20" fill="#E6F7FA" stroke="#0B2545" stroke-width="2"/>
+<text x="480" y="174" font-size="12" text-anchor="middle" fill="#0B2545" font-weight="700" letter-spacing=".6">F</text>
+<rect x="508" y="200" width="36" height="24" rx="4" fill="#E6F7FA" stroke="#0B2545" stroke-width="2"/>
+<text x="526" y="216" font-size="12" text-anchor="middle" fill="#0B2545" font-weight="700" letter-spacing=".6">B</text>
+<path d="M225 165 V300 H470 V190" fill="none" stroke="#0B2545" stroke-width="3"/>
+<path d="M330 62 V40 H578 V170 H500" fill="none" stroke="#0B2545" stroke-width="3"/>
+<path d="M526 224 V320 H40 V120 H60 M40 230 H60" fill="none" stroke="#0EA5C6" stroke-width="3" stroke-dasharray="9 6"/>
+<circle cx="225" cy="165" r="12" fill="#fff" stroke="#0B2545" stroke-width="2.5"/><circle cx="225" cy="165" r="4" fill="#0B2545"/>
+<rect x="315" y="62" width="30" height="16" rx="3" fill="#fff" stroke="#0B2545" stroke-width="2.5"/>
+<circle cx="66" cy="120" r="7" fill="#0EA5C6" stroke="#0B2545" stroke-width="2"/>
+<circle cx="66" cy="230" r="7" fill="#0EA5C6" stroke="#0B2545" stroke-width="2"/>
+<line x1="30" y1="345" x2="60" y2="345" stroke="#0B2545" stroke-width="3"/><text x="68" y="349" font-size="11" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Sucção</text>
+<line x1="140" y1="345" x2="170" y2="345" stroke="#0EA5C6" stroke-width="3" stroke-dasharray="9 6"/><text x="178" y="349" font-size="11" text-anchor="start" fill="#0B2545" font-weight="600" letter-spacing=".6">Retorno</text>
+<text x="30" y="371" font-size="10" text-anchor="start" fill="#6B7F92" font-weight="600" letter-spacing=".6">F filtro · B bomba · ● ralo de fundo · ▭ skimmer</text>
+</svg>
